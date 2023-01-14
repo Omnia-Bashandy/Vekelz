@@ -1,0 +1,15 @@
+
+.dashNav .user{
+    width: 50px;
+    border-radius: 50%;
+}
+.dashNav .bellicon{
+    color: black;
+    padding-right: 15px;
+    font-size: 22px;
+}
+.dashNav .icons{
+    /* border: 1px solid red; */
+    width: 50% !important;
+    
+}
